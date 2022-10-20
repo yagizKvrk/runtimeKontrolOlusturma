@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "runtimeKontrolOlusturma", "runtimeKontrolOlusturma.csproj", "{FCAB3A6E-4929-404D-918E-BF1FA2C9160B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAB3A6E-4929-404D-918E-BF1FA2C9160B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAB3A6E-4929-404D-918E-BF1FA2C9160B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAB3A6E-4929-404D-918E-BF1FA2C9160B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAB3A6E-4929-404D-918E-BF1FA2C9160B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1D23E16-3F05-4BD0-AAED-08B2E3F946F7}
+	EndGlobalSection
+EndGlobal
